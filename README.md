@@ -17,3 +17,9 @@ This project is ready for Vercel static hosting. The canonical URL is currently 
 ```text
 https://county-appliance-repair.vercel.app/
 ```
+
+## Image sources
+
+- Kitchen appliance photo: Unsplash / Mayur Roxan
+- Range photo: Unsplash / Mike Gattorna
+- Laundry photo: Unsplash / Anton Savinov
