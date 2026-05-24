@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://county-appliance-repair.vercel.app/sitemap.xml
