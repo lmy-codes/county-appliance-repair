@@ -20,6 +20,7 @@ https://county-appliance-repair.vercel.app/
 
 ## Image sources
 
+- Company logo and repair job photos: user-provided assets
 - Kitchen appliance photo: Unsplash / Mayur Roxan
 - Range photo: Unsplash / Mike Gattorna
 - Laundry photo: Unsplash / Anton Savinov
